@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  font-family:  'Nunito Sans', sans-serif;
+/* background-color:rgb(201, 173, 201); */
+background-image: linear-gradient(270deg,rgb(201, 173, 201),rgb(187, 145, 187));
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+a{
+  text-decoration: none;
+  color: #001f3f;
+}
