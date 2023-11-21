@@ -2,7 +2,7 @@ import Home from "./pages/home";
 import Header from "./components/header";
 import Footer from "./components/footer";
 import AddExpense from './pages/add-expense';
-import {HashRouter as Router,Route,Routes} from 'react-router-dom';
+import {BrowserRouter as Router,Route,Routes} from 'react-router-dom';
 function App() {
   return (
     // <Router basename="/expense_tracker">
